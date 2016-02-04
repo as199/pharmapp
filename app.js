@@ -28,11 +28,11 @@ app.on('ready', function() {
 		width: 475,
 		height: 350,
 		center: true,
-		//resizable: false,
+		resizable: false,
 		frame: false
 	});
 	authentication.loadURL('file://' + __dirname + '/templates/authentication.html');
-	authentication.openDevTools();
+	//authentication.openDevTools();
 
 	var register = new BrowserWindow({
 		width: 600,
