@@ -16,7 +16,7 @@ Il faut au préalable avoir télécharger [NodeJS](https://nodejs.org/en/) pour 
 Installation
 ---
 
-Il faut d'abord ajouter la base de données dans votre SGBD qui se situe dans *data/pharmapp.js*.
+Il faut d'abord ajouter la base de données dans votre SGBD qui se situe dans `data/pharmapp.js`.
 
 Ensuite, on se rend sur le projet (`cd /your/path/pharmapp`) et on exécute la commande :
 ```
